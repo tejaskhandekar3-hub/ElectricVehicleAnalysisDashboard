@@ -33,5 +33,5 @@ Including details on their Outletlocation, ItemType,Outletize, OutletType, Ratin
 
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - !
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Show what the dashboard looks like. - !((https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png))
+Example: ![Dashboard Preview]((https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png))
