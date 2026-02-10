@@ -33,5 +33,5 @@ Including details on their Outletlocation, ItemType,Outletize, OutletType, Ratin
 
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - !((https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png))
+Show what the dashboard looks like. - ![Alt text](https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png)
 Example: ![Dashboard Preview]((https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png))
