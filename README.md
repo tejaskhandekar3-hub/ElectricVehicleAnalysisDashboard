@@ -29,9 +29,6 @@ More info on where the data comes from and how it’s structured
 Example:
 Source: Electric vehicle population dataset (csv/ExcelFormat).  
 
-Including details on their Outletlocation, ItemType,Outletize, OutletType, Rating, and Sales. 
-
-
-### 6.	Screenshots / Demos
+### 5.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png)
 Example: ![Dashboard Preview]((https://github.com/tejaskhandekar3-hub/ElectricVehicleAnalysisDashboard/blob/main/ElectricVehicleDashboard.png))
